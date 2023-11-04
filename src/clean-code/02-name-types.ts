@@ -21,22 +21,19 @@
 
 
     // Funciones
-    // Obtiene los libros
+
     function getBooks() {
         throw new Error('Function not implemented.');
     }
 
-    // obtiene libros desde un URL
     function getBooksByUrl( url: string) {
         throw new Error('Function not implemented.');
     }
     
-    // obtiene el área de un cuadrado basado en sus lados
     function getSquareArea( side: number ) {
         throw new Error('Function not implemented.');
     }
 
-    // imprime el trabajo
     function printJob() {
         throw new Error('Function not implemented.');
     }
